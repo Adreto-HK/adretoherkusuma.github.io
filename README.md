@@ -1,1 +1,2 @@
-# adretoherkusuma.github.io
+# oktaviamaranatha.github.io
+Portofolio Data Analyst
